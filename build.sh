@@ -10,5 +10,5 @@ pushd installer
 make
 popd
 
-rm -f ps4-hen-1100-PPPwn-vtx.bin
+rm -f "mlthen 1.0 beta.bin"
 cp installer/installer.bin "mlthen 1.0 beta.bin"
